@@ -1,0 +1,13 @@
+# Python 缓存
+__pycache__/
+*.pyc
+
+# 虚拟环境
+.venv/
+
+# 数据与产出（体积大、可再生，不放进版本库）
+data/
+outputs/
+
+# Jupyter
+.ipynb_checkpoints/
